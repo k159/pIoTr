@@ -1,2 +1,2 @@
 # pIoTr
-pIoTr is a penetration testing repository for IoT
+pIoTr - a penetration testing repository for IoT
